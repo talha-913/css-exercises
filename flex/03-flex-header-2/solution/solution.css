@@ -67,3 +67,6 @@ ul {
   align-items: center;
   gap: 16px;
 }
+*{
+  outline: 2px solid red;
+}
